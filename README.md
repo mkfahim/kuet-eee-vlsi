@@ -1,15 +1,7 @@
 # KUET-EEE-VLSI
 
-<!-- <p align="center">
-  <img src="assets/readme-banner.png" width="100%" alt="KUET EEE VLSI Banner">
-</p> -->
-
-<p align="left">
-  <!-- <img src="https://img.shields.io/github/LICENSE/mkfahim/kuet-eee-vlsi"> -->
-  <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen">
-  <img src="https://img.shields.io/github/last-commit/mkfahim/kuet-eee-vlsi">
-  <!-- <img src="https://img.shields.io/github/stars/mkfahim/kuet-eee-vlsi"> -->
-</p>
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+![Last commit](https://img.shields.io/github/last-commit/mkfahim/kuet-eee-vlsi)
 
 An open educational collection of VLSI learning materials, laboratory experiments, and digital circuit design examples.
 
@@ -19,17 +11,16 @@ An open educational collection of VLSI learning materials, laboratory experiment
 - CMOS Circuit Design
 - Digital IC Design
 - Semiconductor Fabrication
-- Circuit Simulation
-- DSCH2 and Microwind
+- Circuit Simulation (DSCH2 and Microwind)
+
+## Repository Contents
 
 | Section | Description |
 |---|---|
-| 📚 [Courses](courses/) | VLSI theory and laboratory materials |
-| 🔬 [Design Examples](design-examples/) | DSCH2 and Microwind circuit examples |
-| 💻 [Software](software/) | Software installation resources |
+| 📚 [Course Slides & PDFs](course_slides_pdfs/) | VLSI theory materials |
+| 🧪 [Lab Experiments](lab_experiment/) | Laboratory materials |
 | 📖 [Documentation](docs/) | Guides and repository documentation |
 | 🌐 [Resources](resources/) | Learning and reference materials |
-
 
 ## In Memory of Professor Dr. Md. Selim Hossain
 
@@ -37,11 +28,8 @@ This repository is dedicated to the memory of **Professor Dr. Md. Selim Hossain*
 
 Remembered with profound respect and gratitude, his contributions to education and academic life remain an inspiration to students and the KUET community.
 
-<p align="center">
-  <strong>May his memory remain an enduring inspiration for generations of learners.</strong>
-</p>
+> *May his memory remain an enduring inspiration for generations of learners.*
 
 ---
 
 **Maintained by:** [@mkfahim](https://github.com/mkfahim)
-
